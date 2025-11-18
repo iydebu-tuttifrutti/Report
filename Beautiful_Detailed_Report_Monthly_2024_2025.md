@@ -1,7 +1,8 @@
+<div align="center">
 # 📊  Annual Report 2024-2025
 ## 🎯 Complete Monthly Performance Record
 
-<div align="center">
+---
 
 # 👨‍💻 DEVASHISH
 ## Game Developer | Tuttifrutti Interactives
